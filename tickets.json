@@ -1,0 +1,8 @@
+[
+  {"id": 1, "customer": "customer-A", "title": "Cannot log in to email", "status": "open", "priority": "high"},
+  {"id": 2, "customer": "customer-A", "title": "Printer offline", "status": "closed", "priority": "low"},
+  {"id": 3, "customer": "customer-B", "title": "Wi-Fi is slow in meeting room", "status": "open", "priority": "medium"},
+  {"id": 4, "customer": "customer-B", "title": "New employee account", "status": "in progress", "priority": "medium"},
+  {"id": 5, "customer": "customer-C", "title": "VPN not connecting", "status": "open", "priority": "high"},
+  {"id": 6, "customer": "customer-C", "title": "Password reset", "status": "closed", "priority": "low"}
+]
